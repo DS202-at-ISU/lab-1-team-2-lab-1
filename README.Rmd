@@ -30,3 +30,16 @@ knitr::opts_chunk$set(echo = TRUE)
 - Error: "fatal: unable to auto-detect email address."\
 - Solution: Ran `git config --global user.email "kushpamnanii@gmail.com"`.
 
+<<<<<<< HEAD
+=======
+This is a line from RStudio
+
+12.3
+
+Luca's Note: I got a "Access Denied error several times but figured out the issue was because I had another file with the same name.
+
+
+12.4 
+
+Luca's Note: the git at first did not appear in my panel abr but I went into tools and project options and selected a box to make it appear.
+>>>>>>> a4ec74bcf10ae1d081a87ba0eacdda655189c997
